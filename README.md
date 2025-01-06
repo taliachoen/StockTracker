@@ -56,13 +56,16 @@ Ensure the following are installed on your system:
 5. **Open your browser and go to** `http://localhost:3000` **to access the app.**
 
 ---
+### 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/e5ff3e86-06bd-49b7-9067-5b04a7f2dfa4)
+![image](https://github.com/user-attachments/assets/6d770671-1c48-438c-ae46-c527f8b5c808)
+![image](https://github.com/user-attachments/assets/42435a74-d5be-4007-93a0-461e191697e0)
+
+
+---
 
 ## 📧 Contact Information  
 For any inquiries, issues, or suggestions, feel free to reach out:  
 - **Email:** taliajob2@gmail.com  
 - **GitHub:** [Talia Cohen](https://github.com/taliachoen)
-
-📧 Contact Information
-For any inquiries, issues, or suggestions, feel free to reach out:
-•	Email: taliajob2@gmail.com
-•	GitHub: Talia Cohen
